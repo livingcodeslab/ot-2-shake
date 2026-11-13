@@ -1,0 +1,387 @@
+{"utc": "2026-11-13T21:02:06.927291+00:00", "kind": "port", "value": {"device": "/dev/cu.usbmodemBENCH", "usb_serial": "BENCH-USB"}}
+{"utc": "2026-11-13T21:02:06.928895+00:00", "kind": "send", "value": "M115"}
+{"utc": "2026-11-13T21:02:06.929667+00:00", "kind": "receive", "value": "M115 FW:v1.1.5 HW:Opentrons Heater-Shaker SerialNo:BENCH-UNIT OK"}
+{"utc": "2026-11-13T21:02:06.929733+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:06.930214+00:00", "kind": "receive", "value": "M105 C:28.92 T:None OK"}
+{"utc": "2026-11-13T21:02:06.930226+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:06.931043+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T21:02:06.931057+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:06.932212+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:06.932331+00:00", "kind": "send", "value": "M3 S500"}
+{"utc": "2026-11-13T21:02:07.933204+00:00", "kind": "receive", "value": "M3 OK"}
+{"utc": "2026-11-13T21:02:07.933356+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:07.934391+00:00", "kind": "receive", "value": "M105 C:28.94 T:None OK"}
+{"utc": "2026-11-13T21:02:07.934422+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:07.935301+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:07.935323+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:07.936340+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:08.941548+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:08.943503+00:00", "kind": "receive", "value": "M105 C:28.91 T:None OK"}
+{"utc": "2026-11-13T21:02:08.943722+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:08.944818+00:00", "kind": "receive", "value": "M123 C:486 T:500 OK"}
+{"utc": "2026-11-13T21:02:08.944977+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:08.946135+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:09.947292+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:09.948735+00:00", "kind": "receive", "value": "M105 C:28.91 T:None OK"}
+{"utc": "2026-11-13T21:02:09.948910+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:09.950038+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:09.950208+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:09.951484+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:10.955452+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:10.957996+00:00", "kind": "receive", "value": "M105 C:28.90 T:None OK"}
+{"utc": "2026-11-13T21:02:10.958197+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:10.959107+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:10.959191+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:10.960904+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:11.963997+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:11.965297+00:00", "kind": "receive", "value": "M105 C:28.88 T:None OK"}
+{"utc": "2026-11-13T21:02:11.965433+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:11.966377+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:11.966416+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:11.967399+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:12.972279+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:12.973763+00:00", "kind": "receive", "value": "M105 C:28.86 T:None OK"}
+{"utc": "2026-11-13T21:02:12.973962+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:12.975017+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:12.975171+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:12.976490+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:13.981873+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:13.983491+00:00", "kind": "receive", "value": "M105 C:28.88 T:None OK"}
+{"utc": "2026-11-13T21:02:13.983710+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:13.985840+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:13.985995+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:13.986761+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:14.990777+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:14.992179+00:00", "kind": "receive", "value": "M105 C:29.09 T:None OK"}
+{"utc": "2026-11-13T21:02:14.992341+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:14.993499+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:14.993668+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:14.994488+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:15.995841+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:15.997139+00:00", "kind": "receive", "value": "M105 C:28.86 T:None OK"}
+{"utc": "2026-11-13T21:02:15.997354+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:15.998365+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:15.998457+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:15.999466+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:17.004148+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:17.005817+00:00", "kind": "receive", "value": "M105 C:29.08 T:None OK"}
+{"utc": "2026-11-13T21:02:17.006016+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:17.006871+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:17.006960+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:17.007863+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:18.009466+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:18.010981+00:00", "kind": "receive", "value": "M105 C:28.81 T:None OK"}
+{"utc": "2026-11-13T21:02:18.011202+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:18.012409+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:18.012539+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:18.013476+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:19.015320+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:19.016738+00:00", "kind": "receive", "value": "M105 C:28.85 T:None OK"}
+{"utc": "2026-11-13T21:02:19.016919+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:19.017976+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:19.018142+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:19.019487+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:20.021623+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:20.022758+00:00", "kind": "receive", "value": "M105 C:28.84 T:None OK"}
+{"utc": "2026-11-13T21:02:20.022941+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:20.023697+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:20.023790+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:20.024537+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:21.026349+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:21.027140+00:00", "kind": "receive", "value": "M105 C:28.84 T:None OK"}
+{"utc": "2026-11-13T21:02:21.027165+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:21.028272+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:21.028292+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:21.029316+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:22.034642+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:22.035783+00:00", "kind": "receive", "value": "M105 C:29.07 T:None OK"}
+{"utc": "2026-11-13T21:02:22.035859+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:22.036555+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:22.036680+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:22.037482+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:23.042709+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:23.044231+00:00", "kind": "receive", "value": "M105 C:28.82 T:None OK"}
+{"utc": "2026-11-13T21:02:23.044399+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:23.045515+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:23.045724+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:23.046804+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:24.052166+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:24.053378+00:00", "kind": "receive", "value": "M105 C:28.82 T:None OK"}
+{"utc": "2026-11-13T21:02:24.053489+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:24.054617+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:24.054766+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:24.056008+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:25.059760+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:25.061276+00:00", "kind": "receive", "value": "M105 C:28.82 T:None OK"}
+{"utc": "2026-11-13T21:02:25.061485+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:25.062447+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:25.062546+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:25.063500+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:26.067498+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:26.068553+00:00", "kind": "receive", "value": "M105 C:28.80 T:None OK"}
+{"utc": "2026-11-13T21:02:26.068614+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:26.069439+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:26.069471+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:26.070445+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:27.071932+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:27.072829+00:00", "kind": "receive", "value": "M105 C:28.81 T:None OK"}
+{"utc": "2026-11-13T21:02:27.072926+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:27.073661+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:27.073690+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:27.074402+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:28.079573+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:28.080731+00:00", "kind": "receive", "value": "M105 C:28.80 T:None OK"}
+{"utc": "2026-11-13T21:02:28.080855+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:28.081635+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:28.081733+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:28.082972+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:29.086559+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:29.087760+00:00", "kind": "receive", "value": "M105 C:29.04 T:None OK"}
+{"utc": "2026-11-13T21:02:29.087888+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:29.088658+00:00", "kind": "receive", "value": "M123 C:504 T:500 OK"}
+{"utc": "2026-11-13T21:02:29.088717+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:29.089467+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:30.091635+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:30.092649+00:00", "kind": "receive", "value": "M105 C:28.78 T:None OK"}
+{"utc": "2026-11-13T21:02:30.092865+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:30.093898+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:30.093998+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:30.094773+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:31.098476+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:31.099964+00:00", "kind": "receive", "value": "M105 C:28.78 T:None OK"}
+{"utc": "2026-11-13T21:02:31.100147+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:31.101577+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:31.101713+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:31.102805+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:32.103516+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:32.104961+00:00", "kind": "receive", "value": "M105 C:28.77 T:None OK"}
+{"utc": "2026-11-13T21:02:32.105139+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:32.106164+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:32.106268+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:32.107509+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:33.112400+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:33.113607+00:00", "kind": "receive", "value": "M105 C:28.76 T:None OK"}
+{"utc": "2026-11-13T21:02:33.113750+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:33.114556+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:33.114654+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:33.115542+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:34.120277+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:34.121629+00:00", "kind": "receive", "value": "M105 C:28.76 T:None OK"}
+{"utc": "2026-11-13T21:02:34.121741+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:34.122625+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:34.122781+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:34.123781+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:35.126269+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:35.127235+00:00", "kind": "receive", "value": "M105 C:28.78 T:None OK"}
+{"utc": "2026-11-13T21:02:35.127278+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:35.128365+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:35.128391+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:35.129404+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:36.134583+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:36.135771+00:00", "kind": "receive", "value": "M105 C:28.75 T:None OK"}
+{"utc": "2026-11-13T21:02:36.135901+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:36.136645+00:00", "kind": "receive", "value": "M123 C:504 T:500 OK"}
+{"utc": "2026-11-13T21:02:36.136731+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:36.137845+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:37.139482+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:37.140937+00:00", "kind": "receive", "value": "M105 C:28.74 T:None OK"}
+{"utc": "2026-11-13T21:02:37.141177+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:37.142358+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:37.142509+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:37.143749+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:38.148217+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:38.149739+00:00", "kind": "receive", "value": "M105 C:28.75 T:None OK"}
+{"utc": "2026-11-13T21:02:38.149930+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:38.150871+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:38.150970+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:38.152447+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:39.156013+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:39.158083+00:00", "kind": "receive", "value": "M105 C:28.73 T:None OK"}
+{"utc": "2026-11-13T21:02:39.158273+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:39.159460+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:39.159597+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:39.160753+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:40.162579+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:40.164105+00:00", "kind": "receive", "value": "M105 C:28.72 T:None OK"}
+{"utc": "2026-11-13T21:02:40.164310+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:40.165477+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:40.165605+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:40.166795+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:41.168157+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:41.169663+00:00", "kind": "receive", "value": "M105 C:29.00 T:None OK"}
+{"utc": "2026-11-13T21:02:41.169844+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:41.170864+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:41.170962+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:41.172057+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:42.176298+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:42.177746+00:00", "kind": "receive", "value": "M105 C:28.71 T:None OK"}
+{"utc": "2026-11-13T21:02:42.177935+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:42.178802+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:42.178920+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:42.179806+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:43.186145+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:43.189735+00:00", "kind": "receive", "value": "M105 C:28.69 T:None OK"}
+{"utc": "2026-11-13T21:02:43.189904+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:43.190671+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:43.190793+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:43.191629+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:44.196820+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:44.198452+00:00", "kind": "receive", "value": "M105 C:28.68 T:None OK"}
+{"utc": "2026-11-13T21:02:44.198657+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:44.199681+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:44.199874+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:44.201019+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:45.206455+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:45.207850+00:00", "kind": "receive", "value": "M105 C:28.68 T:None OK"}
+{"utc": "2026-11-13T21:02:45.207988+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:45.209013+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:45.209186+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:45.210441+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:46.213723+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:46.215119+00:00", "kind": "receive", "value": "M105 C:28.69 T:None OK"}
+{"utc": "2026-11-13T21:02:46.215301+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:46.216188+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:46.216287+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:46.217448+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:47.222041+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:47.223545+00:00", "kind": "receive", "value": "M105 C:28.67 T:None OK"}
+{"utc": "2026-11-13T21:02:47.223725+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:47.224740+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:47.224880+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:47.225995+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:48.231329+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:48.233074+00:00", "kind": "receive", "value": "M105 C:28.68 T:None OK"}
+{"utc": "2026-11-13T21:02:48.233240+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:48.234365+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:48.234475+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:48.235644+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:49.240940+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:49.242440+00:00", "kind": "receive", "value": "M105 C:28.67 T:None OK"}
+{"utc": "2026-11-13T21:02:49.242638+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:49.243739+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:49.243869+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:49.244952+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:50.250240+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:50.251571+00:00", "kind": "receive", "value": "M105 C:28.67 T:None OK"}
+{"utc": "2026-11-13T21:02:50.251723+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:50.252632+00:00", "kind": "receive", "value": "M123 C:504 T:500 OK"}
+{"utc": "2026-11-13T21:02:50.252741+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:50.253787+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:51.259092+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:51.260845+00:00", "kind": "receive", "value": "M105 C:28.67 T:None OK"}
+{"utc": "2026-11-13T21:02:51.261012+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:51.262019+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:51.262153+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:51.263362+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:52.267543+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:52.269016+00:00", "kind": "receive", "value": "M105 C:28.65 T:None OK"}
+{"utc": "2026-11-13T21:02:52.269225+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:52.270369+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:52.270513+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:52.277790+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:53.283402+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:53.284861+00:00", "kind": "receive", "value": "M105 C:28.98 T:None OK"}
+{"utc": "2026-11-13T21:02:53.285050+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:53.286221+00:00", "kind": "receive", "value": "M123 C:486 T:500 OK"}
+{"utc": "2026-11-13T21:02:53.286336+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:53.287806+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:54.292565+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:54.293908+00:00", "kind": "receive", "value": "M105 C:28.65 T:None OK"}
+{"utc": "2026-11-13T21:02:54.294071+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:54.295222+00:00", "kind": "receive", "value": "M123 C:504 T:500 OK"}
+{"utc": "2026-11-13T21:02:54.295358+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:54.296430+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:55.300848+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:55.302386+00:00", "kind": "receive", "value": "M105 C:28.65 T:None OK"}
+{"utc": "2026-11-13T21:02:55.302554+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:55.303617+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:55.303730+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:55.304923+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:56.305956+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:56.307492+00:00", "kind": "receive", "value": "M105 C:28.65 T:None OK"}
+{"utc": "2026-11-13T21:02:56.307680+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:56.308684+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:56.308795+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:56.309908+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:57.314993+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:57.316243+00:00", "kind": "receive", "value": "M105 C:28.64 T:None OK"}
+{"utc": "2026-11-13T21:02:57.316364+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:57.317575+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:57.317797+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:57.319342+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:58.322046+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:58.323785+00:00", "kind": "receive", "value": "M105 C:28.97 T:None OK"}
+{"utc": "2026-11-13T21:02:58.323975+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:58.324842+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:02:58.325032+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:58.325894+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:02:59.331198+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:02:59.333049+00:00", "kind": "receive", "value": "M105 C:28.62 T:None OK"}
+{"utc": "2026-11-13T21:02:59.333234+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:02:59.334364+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:02:59.334528+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:02:59.335792+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:03:00.339152+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:03:00.340582+00:00", "kind": "receive", "value": "M105 C:28.62 T:None OK"}
+{"utc": "2026-11-13T21:03:00.340736+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:03:00.341732+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:03:00.341934+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:03:00.343918+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:03:01.348473+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:03:01.349841+00:00", "kind": "receive", "value": "M105 C:28.59 T:None OK"}
+{"utc": "2026-11-13T21:03:01.349999+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:03:01.351043+00:00", "kind": "receive", "value": "M123 C:504 T:500 OK"}
+{"utc": "2026-11-13T21:03:01.351248+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:03:01.352524+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:03:02.356490+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:03:02.357731+00:00", "kind": "receive", "value": "M105 C:28.60 T:None OK"}
+{"utc": "2026-11-13T21:03:02.357783+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:03:02.358446+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:03:02.358468+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:03:02.359234+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:03:03.364408+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:03:03.365851+00:00", "kind": "receive", "value": "M105 C:28.59 T:None OK"}
+{"utc": "2026-11-13T21:03:03.366008+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:03:03.367051+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:03:03.367153+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:03:03.368472+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:03:04.371461+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:03:04.373445+00:00", "kind": "receive", "value": "M105 C:28.59 T:None OK"}
+{"utc": "2026-11-13T21:03:04.373626+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:03:04.374643+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:03:04.374761+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:03:04.375849+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:03:05.381181+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:03:05.382906+00:00", "kind": "receive", "value": "M105 C:28.95 T:None OK"}
+{"utc": "2026-11-13T21:03:05.383075+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:03:05.384183+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:03:05.384301+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:03:05.385619+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:03:06.388391+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:03:06.389612+00:00", "kind": "receive", "value": "M105 C:28.54 T:None OK"}
+{"utc": "2026-11-13T21:03:06.389760+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:03:06.390537+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:03:06.390616+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:03:06.391487+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:03:07.394944+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:03:07.396048+00:00", "kind": "receive", "value": "M105 C:28.58 T:None OK"}
+{"utc": "2026-11-13T21:03:07.396110+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:03:07.397329+00:00", "kind": "receive", "value": "M123 C:492 T:500 OK"}
+{"utc": "2026-11-13T21:03:07.397354+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:03:07.398311+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:03:07.938385+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:03:07.939609+00:00", "kind": "receive", "value": "M105 C:28.57 T:None OK"}
+{"utc": "2026-11-13T21:03:07.939800+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:03:07.940611+00:00", "kind": "receive", "value": "M123 C:498 T:500 OK"}
+{"utc": "2026-11-13T21:03:07.940702+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:03:07.941560+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T21:03:07.941890+00:00", "kind": "send", "value": "M106"}
+{"utc": "2026-11-13T21:03:07.942638+00:00", "kind": "receive", "value": "M106 OK"}
+{"utc": "2026-11-13T21:03:07.942719+00:00", "kind": "send", "value": "M3 S0"}
+{"utc": "2026-11-13T21:03:08.943051+00:00", "kind": "receive", "value": "M3 OK"}
+{"utc": "2026-11-13T21:03:08.943265+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T21:03:08.944119+00:00", "kind": "receive", "value": "M105 C:28.56 T:None OK"}
+{"utc": "2026-11-13T21:03:08.944171+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T21:03:08.945010+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T21:03:08.945036+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T21:03:08.946103+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}

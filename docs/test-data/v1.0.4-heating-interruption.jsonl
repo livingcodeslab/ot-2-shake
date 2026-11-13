@@ -1,0 +1,64 @@
+{"utc": "2026-11-13T20:41:02.398515+00:00", "kind": "port", "value": {"device": "/dev/cu.usbmodemBENCH", "usb_serial": "BENCH-USB"}}
+{"utc": "2026-11-13T20:41:02.400081+00:00", "kind": "send", "value": "M115"}
+{"utc": "2026-11-13T20:41:02.400826+00:00", "kind": "receive", "value": "M115 FW:v1.0.4 HW:Opentrons Heater-Shaker SerialNo:BENCH-UNIT OK"}
+{"utc": "2026-11-13T20:41:02.400877+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:02.401367+00:00", "kind": "receive", "value": "M105 C:21.64 T:None OK"}
+{"utc": "2026-11-13T20:41:02.401383+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T20:41:02.401783+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T20:41:02.401795+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T20:41:02.402386+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T20:41:02.402499+00:00", "kind": "send", "value": "M104 S37"}
+{"utc": "2026-11-13T20:41:02.402953+00:00", "kind": "receive", "value": "M104 OK"}
+{"utc": "2026-11-13T20:41:02.402971+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:02.403475+00:00", "kind": "receive", "value": "M105 C:21.64 T:37.00 OK"}
+{"utc": "2026-11-13T20:41:02.403489+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T20:41:02.403953+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T20:41:02.403965+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T20:41:02.404513+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T20:41:03.409656+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:03.410735+00:00", "kind": "receive", "value": "M105 C:23.58 T:37.00 OK"}
+{"utc": "2026-11-13T20:41:03.410888+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T20:41:03.411454+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T20:41:03.411552+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T20:41:03.412286+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T20:41:04.417594+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:04.418710+00:00", "kind": "receive", "value": "M105 C:25.05 T:37.00 OK"}
+{"utc": "2026-11-13T20:41:04.418861+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T20:41:04.419462+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T20:41:04.419574+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T20:41:04.420567+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T20:41:05.424061+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:05.425435+00:00", "kind": "receive", "value": "M105 C:26.28 T:37.00 OK"}
+{"utc": "2026-11-13T20:41:05.425626+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T20:41:05.426470+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T20:41:05.426696+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T20:41:05.427760+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T20:41:06.433067+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:06.434028+00:00", "kind": "receive", "value": "M105 C:27.51 T:37.00 OK"}
+{"utc": "2026-11-13T20:41:06.434171+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T20:41:06.434702+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T20:41:06.434770+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T20:41:06.435506+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T20:41:07.440765+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:07.441640+00:00", "kind": "receive", "value": "M105 C:28.54 T:37.00 OK"}
+{"utc": "2026-11-13T20:41:07.441709+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T20:41:07.442274+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T20:41:07.442309+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T20:41:07.442942+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T20:41:08.448248+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:08.449621+00:00", "kind": "receive", "value": "M105 C:29.52 T:37.00 OK"}
+{"utc": "2026-11-13T20:41:08.449758+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T20:41:08.450538+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T20:41:08.450683+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T20:41:08.451580+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T20:41:09.454518+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:09.457235+00:00", "kind": "receive", "value": "M105 C:30.43 T:37.00 OK"}
+{"utc": "2026-11-13T20:41:09.457388+00:00", "kind": "send", "value": "M123"}
+{"utc": "2026-11-13T20:41:09.457966+00:00", "kind": "receive", "value": "M123 C:0 T:0 OK"}
+{"utc": "2026-11-13T20:41:09.458057+00:00", "kind": "send", "value": "M241"}
+{"utc": "2026-11-13T20:41:09.458681+00:00", "kind": "receive", "value": "M241 STATUS:IDLE_CLOSED OK"}
+{"utc": "2026-11-13T20:41:10.459008+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:15.556775+00:00", "kind": "send", "value": "M106"}
+{"utc": "2026-11-13T20:41:20.658966+00:00", "kind": "send", "value": "M3 S0"}
+{"utc": "2026-11-13T20:41:25.755385+00:00", "kind": "send", "value": "M105"}
+{"utc": "2026-11-13T20:41:30.841996+00:00", "kind": "error", "value": "STOP NOT FULLY CONFIRMED: Timed out waiting for M106; device state is uncertain; Timed out waiting for M3 S0; device state is uncertain; Timed out waiting for M105; device state is uncertain. If needed, switch off module power. The plate may remain hot."}
